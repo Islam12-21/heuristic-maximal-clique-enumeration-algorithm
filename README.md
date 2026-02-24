@@ -112,9 +112,10 @@ Formal write-ups are in the docs/ folder:
 
 src/Algebraic-Algorithm.pdf — full pseudocode specification
 
-docs/complexity_analysis_algebraic_max_cliques.md — time and space complexity analysis
+docs/Complexity Analysis & correctness proof.pdf — Complexity Analysis and proof of correctness 
 
-docs/correctness_proof_algebraic_max_cliques.md — soundness and conditional completeness proof
+
+
 
 
 
